@@ -75,7 +75,7 @@ This project highlights trends in YouTube video performance that could inform da
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/youtube-data-analysis.git
+   git clone https://github.com/sahilmaurya881/youtube-data-analysis.git
 2. **Install dependencies**:
    - Ensure all required libraries (**Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, **WordCloud**) are installed.
 
