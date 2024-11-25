@@ -14,7 +14,7 @@ The analysis includes:
 ## 📂 Key Files
 
 - **`youtube.zip` and `youtube 2.zip`**: The original split datasets containing YouTube video details. These were merged for analysis.
-- **`youtube_analysis.ipynb`**: Jupyter notebook with all data cleaning, EDA, and visualizations.
+- **`youtube final.ipynb`**: Jupyter notebook with all data cleaning, EDA, and visualizations.
 - **`youtube2.csv`**: The cleaned and merged dataset exported after analysis.
 - **Power BI Dashboard Files**:
   - **`Youtube Dashboard.pbit`**: Power BI template file.
