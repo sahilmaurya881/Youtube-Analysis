@@ -1,4 +1,4 @@
-# 📊 YouTube Data Analysis Project
+# 📊 YouTube Sentimental Analysis Using NLP
 
 This project provides an in-depth analysis of a YouTube dataset, focusing on key metrics such as video performance, audience engagement, country-based distribution, and trends in tag usage. Additionally, sentiment analysis has been incorporated to classify video titles as Positive, Neutral, or Negative, enhancing insights into content reception.
 
